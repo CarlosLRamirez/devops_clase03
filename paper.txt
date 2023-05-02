@@ -1,0 +1,2 @@
+hola mundo
+este es un archivo de texto
