@@ -1,2 +1,9 @@
 hola mundo
 este es un archivo de texto
+
+
+esta es una linea nueva con vi
+hola
+hola
+hola
+
